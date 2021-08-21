@@ -7,7 +7,7 @@ To install Python on your machine go to https://www.python.org/downloads/. The w
 
 After installation, open the command prompt and check that the Python version matches the version you installed by executing:
 
-** ...\> py --version
+** ```...\> py --version```
 
 # Setting up a virtual environment 
 It is best practice to provide a dedicated environment for each Django project you create. There are many options to manage environments and packages within the Python ecosystem, some of which are recommended in the Python documentation. Python itself comes with venv for managing environments which we will use for this guide.
